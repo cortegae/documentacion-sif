@@ -1,15 +1,12 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Sistema Integral de Facturacion
-actionText: Quick Start →
+heroImage: https://media.licdn.com/dms/image/C560BAQFtjawYy0miLA/company-logo_200_200/0/1519866608986?e=2147483647&v=beta&t=oVAHkqQiKiD6buz9u0C4TZiSrKdhS0B0I_vkMevZhn0
+tagline: 
+actionText: Ir a la documentación →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by  with ❤️
+- title: Objetivo
+  details: Permitir el desarrollo del sistema de manera controlada y sostenible.
+
+footer: Desarrollado con VuePress por Cibercom ❤️
 ---
